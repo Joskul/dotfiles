@@ -110,4 +110,4 @@ fi
 
 [ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh
 
-export PATH=$PATH:/home/schpudt/.spicetify
+export PATH=$PATH:$HOME/.spicetify
